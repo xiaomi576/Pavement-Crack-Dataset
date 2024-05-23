@@ -1,0 +1,26 @@
+<annotation>
+	<folder>裂缝照片</folder>
+	<filename>IMG_20220910_122030.jpg</filename>
+	<path>E:\0 DATASET\自制数据集\裂缝照片\IMG_20220910_122030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>linear_crack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1536</xmin>
+			<ymin>2</ymin>
+			<xmax>2022</xmax>
+			<ymax>4032</ymax>
+		</bndbox>
+	</object>
+</annotation>
